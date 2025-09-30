@@ -1,16 +1,19 @@
+
+<img width="1079" height="383" alt="image" src="https://github.com/user-attachments/assets/a895c79a-3fb3-4b92-b556-fa5477240c45" />
+
 # MoranaAir - Sistema de Entregas com Drones
 
-# Grupo - Guiana
+## Grupo - Guiana
 * Ana Julia Yaguti Matilha
 * Guilherme Clauz Morlina da Silva
 
-# Descrição
+## Descrição
 Sistema acadêmico de entregas com drones, desenvolvido em Java com UML e boas práticas de segurança. Permite cadastro de clientes e drones, solicitação de entregas, atribuição automática do drone adequado e histórico de entregas, com validação de dados e prevenção de falhas.
 
-# Diagrama de Classes
+## Diagrama de Classes
 <img width="3679" height="2844" alt="Classe UML 2 0 cortado" src="https://github.com/user-attachments/assets/8b3c2a37-ee45-4fa5-8581-921a2953b10b" />
 
-# Diagrama de Sequência
+## Diagrama de Sequência
 <img width="1788" height="1447" alt="User Flow Diagram Template for FigJam (Community) (1)" src="https://github.com/user-attachments/assets/ee23437f-a11b-4469-9435-7617c94e9ca9" />
 
-# Integração de modelos (Classes + Banco de Dados)
+## Integração de modelos (Classes + Banco de Dados)
